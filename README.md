@@ -11,6 +11,7 @@ HW 1 - create functions that calculate the factorial of a number, mean of a list
 HW 2 - Scrabble Game <br />
 HW 3 - create a function that returns the coins necessary for a given value, another Scrabble Score function, two functions that slice <br />
 HW 4 - Pascal's Triangle <br />
+HW 5 - Turtle Graph, Lucas numbers function, List of coins function
 
 
 
