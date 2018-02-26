@@ -1,5 +1,4 @@
 # CS115
-CS115 - Python
 
 **Introduction to Python**
 
