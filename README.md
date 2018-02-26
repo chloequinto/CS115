@@ -1,7 +1,7 @@
 # CS115
 CS115 - Python
 
-Introduction to Python 
+**Introduction to Python**
 
 Repository containing all my homeworks, labs, and notes. 
 
@@ -20,3 +20,14 @@ Lab 2 - create functions: dot product, takes a string and returns list of charac
 Lab 3 - create a function that determines whether it is possible to create the target sum using values in a list<br />
 Lab 4 - create a function that returns the max vakue, and the list of items that make the value without exceeding the capacity of the knapsack<br />
 Lab 5 - using memoization, create functions that returns the edit distance between two strings, create a function finds the edit distance from a dictionary and the user_input word, spell-checker function <br />
+
+
+## Operators 
++ addition <br/> 
+- subtraction <br/> 
+* multiplication <br/> 
+/ division <br/> 
+// true division <br/> 
+** exponential <br/> 
+
+## Lists 
