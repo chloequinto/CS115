@@ -1,7 +1,6 @@
 # CS115
 
 **Introduction to Python**
-![](https://img.shields.io/badge/Language-Python-brightgreen.svg) <br/>
 Repository containing all my homeworks, labs, and notes. 
 
 ## Index:
