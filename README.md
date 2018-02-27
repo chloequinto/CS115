@@ -4,7 +4,7 @@
 
 Repository containing all my homeworks, labs, and notes. 
 
-Index:
+## Index:
 
 HW 1 - create functions that calculate the factorial of a number, mean of a list, prime of a number <br />
 HW 2 - Scrabble Game <br />
@@ -30,8 +30,12 @@ Lab 5 - using memoization, create functions that returns the edit distance betwe
 '**' exponential <br/> 
 
 ## Lists 
+[0,1,2,3,4] <br/>
+The first element in a list is in index[0], second element in a list is in index[1] and so forth. <br/> 
+Syntax: <br/>
+[include, exclude, step] 
 
-##Memoization
+## Memoization
 Memoization is an optimization technique used to speed up programs by storing results of expensive function calls <br/> 
 
 The following are steps for Memoization
