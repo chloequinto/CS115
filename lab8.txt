@@ -1,0 +1,19 @@
+#Created on March 22st 2018
+#Chloe Quinto 
+#Pledge: "I pledge my honor that I have abided by the Stevens Honor System" - cquinto 
+#10416964
+#Calculates Fibonacci Sequence 
+
+
+0	read 	r1		#read input 
+1	setn	r2 0		#set r2 = 0 
+2	setn	r3 1		#set r3 = 0
+3	setn	r4 0		#set fib result f4  = 0 
+4	jeqzn	r1 11		#jump if completed
+5	add	r4 r3 r2	#r4 = r3 + r2 
+6	write 	r2		#print r2
+7	copy 	r2 r3		#r2 = r3
+8 	copy	r3 r4		#r4 = r3
+9	addn	r1 -1		#r1 -1 
+10	jumpn	4		#jump to line 4 
+11	halt 			#halt program 
